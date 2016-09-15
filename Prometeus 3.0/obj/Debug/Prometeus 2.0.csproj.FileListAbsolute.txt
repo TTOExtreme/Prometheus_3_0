@@ -1,0 +1,108 @@
+G:\Prometheus\Prometeus 2.0\Prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.pdb
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csprojResolveAssemblyReference.cache
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Form1.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Properties.Resources.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csproj.GenerateResource.Cache
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb
+F:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+F:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+F:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.pdb
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csprojResolveAssemblyReference.cache
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Form1.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Properties.Resources.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csproj.GenerateResource.Cache
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormMaintenance.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormReport.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormMaintenance.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormReport.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigDev.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConf.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigGas.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLigth.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigTmp.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigDev.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConf.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigGas.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLigth.resources
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigTmp.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.pdb
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csprojResolveAssemblyReference.cache
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Form1.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConf.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigDev.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigGas.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLigth.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigTmp.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormMaintenance.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormReport.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Properties.Resources.resources
+E:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csproj.GenerateResource.Cache
+K:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLanguage.resources
+G:\Prometheus\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLanguage.resources
+G:\Prometheus\Prometeus 2.0\Prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigComm.resources
+G:\Prometheus\Prometeus 2.0\Prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigSecurity.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.manifest
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.application
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.pdb
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csprojResolveAssemblyReference.cache
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Form1.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConf.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigComm.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigDev.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigGas.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLigth.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigSecurity.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigTmp.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLanguage.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormMaintenance.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormReport.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Keyboard.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Properties.Resources.resources
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csproj.GenerateResource.Cache
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe.manifest
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.application
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb
+D:\_Arquivos\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Login.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.manifest
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.application
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.pdb
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csprojResolveAssemblyReference.cache
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Form1.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConf.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigComm.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigDev.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigGas.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLigth.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigSecurity.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigTmp.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormConfigLanguage.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormMaintenance.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.FormReport.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Keyboard.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Login.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Properties.Resources.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.csproj.GenerateResource.Cache
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe.manifest
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 2.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.application
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb

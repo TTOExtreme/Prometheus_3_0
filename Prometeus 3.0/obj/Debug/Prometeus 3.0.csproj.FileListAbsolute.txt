@@ -1,0 +1,51 @@
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.config
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe.manifest
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.application
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.exe
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\bin\Debug\Prometeus 2.0.pdb
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 3.0.csprojResolveAssemblyReference.cache
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.Form1.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConf.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConfigComm.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConfigDev.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConfigGas.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConfigLigth.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConfigSecurity.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConfigTmp.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormConfigLanguage.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormMaintenance.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.FormReport.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.Keyboard.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_3._0.Login.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus_2._0.Properties.Resources.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 3.0.csproj.GenerateResource.Cache
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe.manifest
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.application
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.exe
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 2.0\obj\Debug\Prometeus 2.0.pdb
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\bin\Debug\Prometeus 2.0.exe.config
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Promethus 3.0 output\Prometeus 3.0.exe.config
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Promethus 3.0 output\Prometeus 3.0.exe.manifest
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Promethus 3.0 output\Prometeus 3.0.application
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Promethus 3.0 output\Prometeus 3.0.exe
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Promethus 3.0 output\Prometeus 3.0.pdb
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.csprojResolveAssemblyReference.cache
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.Form1.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConf.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConfigComm.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConfigDev.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConfigGas.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConfigLigth.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConfigSecurity.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConfigTmp.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormConfigLanguage.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormMaintenance.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.FormReport.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.Keyboard.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.Login.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.Properties.Resources.resources
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.csproj.GenerateResource.Cache
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.exe.manifest
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.application
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.exe
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.pdb
