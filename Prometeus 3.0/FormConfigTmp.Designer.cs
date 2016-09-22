@@ -59,15 +59,17 @@
             // 
             // txtConfigTemp
             // 
-            this.txtConfigTemp.AutoSize = true;
+            this.txtConfigTemp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtConfigTemp.BackColor = System.Drawing.Color.Transparent;
             this.txtConfigTemp.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtConfigTemp.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.txtConfigTemp.Location = new System.Drawing.Point(314, 19);
+            this.txtConfigTemp.Location = new System.Drawing.Point(39, 10);
             this.txtConfigTemp.Name = "txtConfigTemp";
-            this.txtConfigTemp.Size = new System.Drawing.Size(603, 73);
+            this.txtConfigTemp.Size = new System.Drawing.Size(1212, 73);
             this.txtConfigTemp.TabIndex = 120;
-            this.txtConfigTemp.Text = "Config Temperature";
+            this.txtConfigTemp.Text = "Configuração de temperatura";
+            this.txtConfigTemp.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // buttonConfigExit
             // 

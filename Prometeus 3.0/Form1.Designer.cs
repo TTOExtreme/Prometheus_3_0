@@ -73,7 +73,7 @@ namespace Prometeus_3._0
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.txtUv1 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
+            this.UVWarn = new System.Windows.Forms.Button();
             this.Warning = new System.Windows.Forms.Button();
             this.labelInfo = new System.Windows.Forms.Label();
             this.button5 = new System.Windows.Forms.Button();
@@ -125,7 +125,7 @@ namespace Prometeus_3._0
             this.buttonBlueOn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.buttonBlueOn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonBlueOn.ForeColor = System.Drawing.Color.Transparent;
-            this.buttonBlueOn.Location = new System.Drawing.Point(1275, 317);
+            this.buttonBlueOn.Location = new System.Drawing.Point(1241, 332);
             this.buttonBlueOn.Margin = new System.Windows.Forms.Padding(0);
             this.buttonBlueOn.Name = "buttonBlueOn";
             this.buttonBlueOn.Size = new System.Drawing.Size(81, 73);
@@ -401,7 +401,7 @@ namespace Prometeus_3._0
             this.txtBlue.BackColor = System.Drawing.Color.Transparent;
             this.txtBlue.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBlue.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.txtBlue.Location = new System.Drawing.Point(1137, 334);
+            this.txtBlue.Location = new System.Drawing.Point(1216, 291);
             this.txtBlue.Name = "txtBlue";
             this.txtBlue.Size = new System.Drawing.Size(137, 33);
             this.txtBlue.TabIndex = 62;
@@ -669,7 +669,7 @@ namespace Prometeus_3._0
             this.labelBlue.BackColor = System.Drawing.Color.Transparent;
             this.labelBlue.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelBlue.ForeColor = System.Drawing.Color.Lime;
-            this.labelBlue.Location = new System.Drawing.Point(1284, 391);
+            this.labelBlue.Location = new System.Drawing.Point(1252, 412);
             this.labelBlue.Name = "labelBlue";
             this.labelBlue.Size = new System.Drawing.Size(62, 29);
             this.labelBlue.TabIndex = 94;
@@ -773,32 +773,33 @@ namespace Prometeus_3._0
             this.txtUv1.BackColor = System.Drawing.Color.Transparent;
             this.txtUv1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUv1.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.txtUv1.Location = new System.Drawing.Point(1215, 429);
+            this.txtUv1.Location = new System.Drawing.Point(1197, 427);
             this.txtUv1.Name = "txtUv1";
             this.txtUv1.Size = new System.Drawing.Size(55, 33);
             this.txtUv1.TabIndex = 104;
             this.txtUv1.Text = "UV";
+            this.txtUv1.Visible = false;
             // 
-            // button3
+            // UVWarn
             // 
-            this.button3.BackColor = System.Drawing.Color.Transparent;
-            this.button3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button3.BackgroundImage")));
-            this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button3.CausesValidation = false;
-            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.ForeColor = System.Drawing.Color.Transparent;
-            this.button3.Location = new System.Drawing.Point(1268, 441);
-            this.button3.Margin = new System.Windows.Forms.Padding(0);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(93, 91);
-            this.button3.TabIndex = 105;
-            this.button3.TabStop = false;
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Visible = false;
+            this.UVWarn.BackColor = System.Drawing.Color.Transparent;
+            this.UVWarn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("UVWarn.BackgroundImage")));
+            this.UVWarn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.UVWarn.CausesValidation = false;
+            this.UVWarn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.UVWarn.FlatAppearance.BorderSize = 0;
+            this.UVWarn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.UVWarn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.UVWarn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.UVWarn.ForeColor = System.Drawing.Color.Transparent;
+            this.UVWarn.Location = new System.Drawing.Point(1208, 441);
+            this.UVWarn.Margin = new System.Windows.Forms.Padding(0);
+            this.UVWarn.Name = "UVWarn";
+            this.UVWarn.Size = new System.Drawing.Size(153, 148);
+            this.UVWarn.TabIndex = 105;
+            this.UVWarn.TabStop = false;
+            this.UVWarn.UseVisualStyleBackColor = false;
+            this.UVWarn.Visible = false;
             // 
             // Warning
             // 
@@ -865,6 +866,7 @@ namespace Prometeus_3._0
             this.txtHeat.TabIndex = 112;
             this.txtHeat.Text = "Heat";
             this.txtHeat.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.txtHeat.Visible = false;
             // 
             // button6
             // 
@@ -885,6 +887,7 @@ namespace Prometeus_3._0
             this.button6.TabIndex = 111;
             this.button6.TabStop = false;
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Visible = false;
             // 
             // button7
             // 
@@ -1029,13 +1032,14 @@ namespace Prometeus_3._0
             this.button15.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button15.ForeColor = System.Drawing.Color.Transparent;
-            this.button15.Location = new System.Drawing.Point(1291, 216);
+            this.button15.Location = new System.Drawing.Point(1272, 216);
             this.button15.Margin = new System.Windows.Forms.Padding(0);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(50, 60);
             this.button15.TabIndex = 121;
             this.button15.TabStop = false;
             this.button15.UseVisualStyleBackColor = false;
+            this.button15.Visible = false;
             // 
             // lockCO2
             // 
@@ -1319,6 +1323,7 @@ namespace Prometeus_3._0
             this.button29.TabIndex = 140;
             this.button29.TabStop = false;
             this.button29.UseVisualStyleBackColor = false;
+            this.button29.Visible = false;
             // 
             // button31
             // 
@@ -1398,7 +1403,7 @@ namespace Prometeus_3._0
             this.time1vd.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.time1vd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.time1vd.ForeColor = System.Drawing.Color.Transparent;
-            this.time1vd.Location = new System.Drawing.Point(1225, 365);
+            this.time1vd.Location = new System.Drawing.Point(1119, 372);
             this.time1vd.Margin = new System.Windows.Forms.Padding(0);
             this.time1vd.Name = "time1vd";
             this.time1vd.Size = new System.Drawing.Size(50, 60);
@@ -1525,7 +1530,7 @@ namespace Prometeus_3._0
             this.Controls.Add(this.button5);
             this.Controls.Add(this.buttonUVLightVd);
             this.Controls.Add(this.labelInfo);
-            this.Controls.Add(this.button3);
+            this.Controls.Add(this.UVWarn);
             this.Controls.Add(this.txtUv1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -1619,7 +1624,7 @@ namespace Prometeus_3._0
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label txtUv1;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button UVWarn;
         private System.Windows.Forms.Button Warning;
         private System.Windows.Forms.Label labelInfo;
         private System.Windows.Forms.Button button5;

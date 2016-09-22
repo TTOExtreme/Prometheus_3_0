@@ -423,7 +423,7 @@ namespace Prometeus_3._0
                 key2.ShowDialog();
                 try
                 {
-                    F1.AUv[1] = (Convert.ToInt32(F1.AUv[2]) + (Convert.ToInt32(F1.Keyboard))).ToString();
+                    F1.AUv[2] = (Convert.ToInt32(F1.AUv[2]) + (Convert.ToInt32(F1.Keyboard))).ToString();
                 }
                 catch { }
                 F1.CfgWrite(44, F1.AUv[2]);

@@ -203,6 +203,7 @@
             this.txtPump.TabIndex = 347;
             this.txtPump.Text = "Pump";
             this.txtPump.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.txtPump.Visible = false;
             // 
             // buttonPump
             // 
@@ -223,6 +224,7 @@
             this.buttonPump.TabIndex = 346;
             this.buttonPump.TabStop = false;
             this.buttonPump.UseVisualStyleBackColor = false;
+            this.buttonPump.Visible = false;
             this.buttonPump.Click += new System.EventHandler(this.button7_Click);
             // 
             // buttonHeat
@@ -570,6 +572,7 @@
             this.textBox1.PasswordChar = '*';
             this.textBox1.Size = new System.Drawing.Size(187, 20);
             this.textBox1.TabIndex = 358;
+            this.textBox1.Visible = false;
             this.textBox1.Click += new System.EventHandler(this.textBox1_Click);
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -584,6 +587,7 @@
             this.txtPass.Size = new System.Drawing.Size(92, 24);
             this.txtPass.TabIndex = 359;
             this.txtPass.Text = "Password";
+            this.txtPass.Visible = false;
             // 
             // txtTemp
             // 
@@ -812,6 +816,7 @@
             this.lockPump.TabIndex = 372;
             this.lockPump.TabStop = false;
             this.lockPump.UseVisualStyleBackColor = false;
+            this.lockPump.Visible = false;
             // 
             // lockHeat
             // 

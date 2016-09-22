@@ -645,6 +645,7 @@
             this.labelLev.Size = new System.Drawing.Size(36, 29);
             this.labelLev.TabIndex = 273;
             this.labelLev.Text = "HI";
+            this.labelLev.Visible = false;
             // 
             // txtLevel
             // 
@@ -657,6 +658,7 @@
             this.txtLevel.Size = new System.Drawing.Size(85, 33);
             this.txtLevel.TabIndex = 272;
             this.txtLevel.Text = "Level";
+            this.txtLevel.Visible = false;
             // 
             // buttonLevVd
             // 
@@ -677,6 +679,7 @@
             this.buttonLevVd.TabIndex = 271;
             this.buttonLevVd.TabStop = false;
             this.buttonLevVd.UseVisualStyleBackColor = false;
+            this.buttonLevVd.Visible = false;
             // 
             // buttonLevVm
             // 
@@ -903,6 +906,7 @@
             this.labelPump.Size = new System.Drawing.Size(62, 29);
             this.labelPump.TabIndex = 292;
             this.labelPump.Text = "OFF";
+            this.labelPump.Visible = false;
             // 
             // txtPump
             // 
@@ -915,27 +919,15 @@
             this.txtPump.TabIndex = 291;
             this.txtPump.Text = "Pump";
             this.txtPump.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.txtPump.Visible = false;
             // 
             // buttonPumpVd
             // 
-            this.buttonPumpVd.BackColor = System.Drawing.Color.Transparent;
-            this.buttonPumpVd.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("buttonPumpVd.BackgroundImage")));
-            this.buttonPumpVd.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.buttonPumpVd.CausesValidation = false;
-            this.buttonPumpVd.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.buttonPumpVd.FlatAppearance.BorderSize = 0;
-            this.buttonPumpVd.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.buttonPumpVd.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.buttonPumpVd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonPumpVd.ForeColor = System.Drawing.Color.Transparent;
-            this.buttonPumpVd.Location = new System.Drawing.Point(964, 386);
-            this.buttonPumpVd.Margin = new System.Windows.Forms.Padding(0);
+            this.buttonPumpVd.Location = new System.Drawing.Point(0, 0);
             this.buttonPumpVd.Name = "buttonPumpVd";
-            this.buttonPumpVd.Size = new System.Drawing.Size(70, 70);
-            this.buttonPumpVd.TabIndex = 290;
-            this.buttonPumpVd.TabStop = false;
-            this.buttonPumpVd.UseVisualStyleBackColor = false;
-            this.buttonPumpVd.Click += new System.EventHandler(this.buttonPumpVd_Click);
+            this.buttonPumpVd.Size = new System.Drawing.Size(75, 23);
+            this.buttonPumpVd.TabIndex = 308;
+            this.buttonPumpVd.Visible = false;
             // 
             // label25
             // 
@@ -1002,7 +994,7 @@
             this.labelBlue.AutoSize = true;
             this.labelBlue.BackColor = System.Drawing.Color.Transparent;
             this.labelBlue.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelBlue.ForeColor = System.Drawing.Color.Red;
+            this.labelBlue.ForeColor = System.Drawing.Color.Lime;
             this.labelBlue.Location = new System.Drawing.Point(1192, 654);
             this.labelBlue.Name = "labelBlue";
             this.labelBlue.Size = new System.Drawing.Size(62, 29);
@@ -1017,9 +1009,9 @@
             this.txtBlue.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtBlue.Location = new System.Drawing.Point(1153, 534);
             this.txtBlue.Name = "txtBlue";
-            this.txtBlue.Size = new System.Drawing.Size(137, 33);
+            this.txtBlue.Size = new System.Drawing.Size(162, 33);
             this.txtBlue.TabIndex = 305;
-            this.txtBlue.Text = "Bluetooth";
+            this.txtBlue.Text = "Connection";
             // 
             // buttonBlueOn
             // 

@@ -21,7 +21,7 @@ namespace Prometeus_3._0
     public partial class Form1 : Form
     {
 
-        string Url = "http://192.168.0.177:5546/data";            //   ip for communication
+        string Url = "http://192.168.0.176:5546/data";            //   ip for communication
         public string CurrentPath = System.IO.Directory.GetCurrentDirectory(); //current directory
 
         int vectorpos = 0;                                        //   Posição do vetor para media de dados do Ar
@@ -39,7 +39,7 @@ namespace Prometeus_3._0
         public string CO2 = "off";                                //   CO2 on/off
         public string N2 = "off";                                 //   N2 on/off
         public string O2 = "off";                                 //   O2 on/off
-        public string Level = "1";                                //   Level Hi/Low
+        //public string Level = "1";                                //   Level Hi/Low
         public string Light = "off";                              //   Light on/off
         public string UVLight = "off";                            //   UV Light on/off
         public string Dev1 = "off";                               //   Device 1 on/off
@@ -140,6 +140,7 @@ namespace Prometeus_3._0
         int TmaxCont = 0;
 
         int verifyCom = -4000;
+        Connecting_screen connScreen = new Connecting_screen();
 
         public BatteryChargeStatus BatteryChargeStatus;
 
@@ -151,6 +152,8 @@ namespace Prometeus_3._0
             pathPass = CurrentPath + "/bin/res/bfp2p.bin";//   Arquivo de Configuração
             pathLang = CurrentPath + "/bin/lang/";              //   Diretorio de Linguagens
             pathCrash = CurrentPath + "/bin/Crash/";
+
+            //connScreen = new Connecting_screen();
 
             InitializeComponent();
             battery();
@@ -437,7 +440,7 @@ namespace Prometeus_3._0
 
         }
 
-        public void Verify()
+        public async void Verify()
         {
             readSettings();
             if (tempUnit == "c")
@@ -488,7 +491,7 @@ namespace Prometeus_3._0
             }
 
             //dev1
-            if (Dev1 == "on" || Dev1.IndexOf("on")>-1)
+            if (Dev1 == "on")
             {
                 buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
                 labelDev1.Text = Dev1.ToUpper();
@@ -498,42 +501,72 @@ namespace Prometeus_3._0
             }
             else
             {
-                buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
-                labelDev1.Text = "OFF";
-                labelDev1.ForeColor = System.Drawing.Color.Lime;
-                labelDev1.Focus();
+                if (Dev1 == "aon")
+                {
+                    buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
+                    labelDev1.Text = Dev1.ToUpper();
+                    labelDev1.ForeColor = System.Drawing.Color.Red;
+                    labelDev1.Focus();
+                }
+                else
+                {
+                    buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
+                    labelDev1.Text = Dev1.ToUpper();
+                    labelDev1.ForeColor = System.Drawing.Color.Lime;
+                    labelDev1.Focus();
+                }
             }
             //dev2
-            if (Dev2 == "on" || Dev2.IndexOf("on")>-1)
+            if (Dev2 == "on")
             {
-                buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d21.dat");
+                buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
                 labelDev2.Text = Dev2.ToUpper();
                 labelDev2.ForeColor = System.Drawing.Color.Red;
                 labelDev2.Focus();
-                //F1.Dev2 = "off";
+                //F1.Dev1 = "off";
             }
             else
             {
-                buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d20.dat");
-                labelDev2.Text = "OFF";
-                labelDev2.ForeColor = System.Drawing.Color.Lime;
-                labelDev2.Focus();
+                if (Dev2 == "aon")
+                {
+                    buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
+                    labelDev2.Text = Dev2.ToUpper();
+                    labelDev2.ForeColor = System.Drawing.Color.Red;
+                    labelDev2.Focus();
+                }
+                else
+                {
+                    buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
+                    labelDev2.Text = Dev2.ToUpper();
+                    labelDev2.ForeColor = System.Drawing.Color.Lime;
+                    labelDev2.Focus();
+                }
             }
             //dev3
-            if (Dev3.IndexOf("on")>-1 || Dev3.IndexOf("on")>-1)
+            if (Dev3 == "on")
             {
-                buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d31.dat");
+                buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
                 labelDev3.Text = Dev3.ToUpper();
                 labelDev3.ForeColor = System.Drawing.Color.Red;
                 labelDev3.Focus();
-                //F1.Dev3 = "on";
+                //F1.Dev1 = "off";
             }
             else
             {
-                buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d30.dat");
-                labelDev3.Text = "OFF";
-                labelDev3.ForeColor = System.Drawing.Color.Lime;
-                labelDev3.Focus();
+                if (Dev3 == "aon")
+                {
+                    buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
+                    labelDev3.Text = Dev3.ToUpper();
+                    labelDev3.ForeColor = System.Drawing.Color.Red;
+                    labelDev3.Focus();
+                }
+                else
+                {
+                    buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
+                    labelDev3.Text = Dev3.ToUpper();
+                    labelDev3.ForeColor = System.Drawing.Color.Lime;
+                    labelDev3.Focus();
+                }
             }
             //co2
             if (CO2 == "on" || CO2.IndexOf("on")>-1)
@@ -1254,7 +1287,7 @@ namespace Prometeus_3._0
 
         public bool bluetoothIsOn()
         {
-            if (Blue == "off" && change==1)
+            if ( change==1)//Blue == "off" &&
             {
                 WebClient client = new WebClient();
                 try
@@ -1279,19 +1312,21 @@ namespace Prometeus_3._0
                     }
                 } catch(Exception e)
                 {
+                    String str="";
                     return false;
                 }
             }
             else
             {
-                if (change == 0)
-                {
-                    return false;
-                }else
+                if (Blue=="on")
                 {
                     return true;
+                }else
+                {
+                    return false;
                 }
             }
+            //*/
         }
        
         //**************************************** liga ou desliga a conexao *********************************
@@ -1306,13 +1341,13 @@ namespace Prometeus_3._0
                     Blue = "on";
                     timer1sec();
                     timer1.Start();
-                    timer15sec();
+                    //timer15sec();
                     timerLevel.Start();//timer do nivel
                     Warning.Visible = false;
                     labelInfo.Visible = false;
                     time1vd.Visible = false;
                     labelTempAr.Visible = true;
-
+                    //Verify();
                     if (Heat == "on")
                     {
                         TrnOnHeat();
@@ -1327,6 +1362,7 @@ namespace Prometeus_3._0
             {
                 if (Blue=="on")
                 {
+                    timer15sec();
                     //writeDebug("[Connection] Desconectado");
                     Blue = "off";
                     time1vd.Visible = false;
@@ -1347,6 +1383,19 @@ namespace Prometeus_3._0
         
         // ********************************** Bluetooth***********************************************
 
+        public async void Connecting(bool state)
+        {
+            if (state)
+            {
+                connScreen = new Connecting_screen();
+                connScreen.Show();
+            }
+            else
+            {
+                connScreen.Close();
+            }
+        }
+
         public void buttonBlue_Click(object sender, EventArgs e)
         {
             if (Warning.Visible == true)
@@ -1356,7 +1405,7 @@ namespace Prometeus_3._0
             }
             if (lBlue == "off")
             {
-                if (Blue == "on")//desliga
+                if (labelBlue.Text == "ON")//desliga
                 {
                     bluetoothState(false);
                     if (Blue=="off")
@@ -1369,8 +1418,9 @@ namespace Prometeus_3._0
                 }
                 else
                 {
-                    if (Blue == "off")//liga
+                    if (labelBlue.Text == "OFF")//liga
                     {
+                        Connecting(true);
                         bluetoothState(true);
                         if (Blue=="on")
                         {
@@ -1381,6 +1431,7 @@ namespace Prometeus_3._0
 
                             ReloadSets(sender, e);
                         }
+                        Connecting(false);
                     }
                 }
             }
@@ -1454,81 +1505,51 @@ namespace Prometeus_3._0
                 }
             }
         }
-
-        // ********************************* Pump **************************************************
-
-        public void buttonPump_Click(object sender, EventArgs e)
-        {
-            /*
-            if (bluetoothIsOn())
-            {
-                if (lPump == "off")
-                {
-                    if (Pump == "off")
-                    {
-                        Pump = "on";
-                        Cont = 0;
-                    }
-                    else
-                    {
-                        if (Pump == "on")
-                        {
-                            mess = "@fan=On";
-                            if (waitReceiver(mess, "bot") == "bok")
-                            {
-                                Pump = "off";
-                                PumpSec = "off";
-                                PumpAuto = "off";
-                                timerLevel.Stop();
-                                Cont = 0;
-
-                                Warning.Visible = false;
-                                labelInfo.Visible = false;
-                            }
-                            else
-                            {
-                                Cont++;
-                                if (bluetoothIsOn() && Cont < 100)
-                                {
-                                    buttonPump_Click(sender, e);
-                                }
-                                else
-                                {
-                                    Warning.Visible = true;
-                                    labelInfo.Text = lang[50];
-                                    labelInfo.Visible = true;
-                                }
-                            }
-                        }
-                    }
-                    CfgWrite(12, Pump);
-                }
-            }
-            //*/
-        }
-
+        
         // ********************************* Heat ***************************************************
 
         public void buttonHeat_Click(object sender, EventArgs e)
         {
-            /*
+            
             if (bluetoothIsOn())
             {
                 if (lHeat == "off")
                 {
                     if (Heat == "off")
                     {
-                        //Heat = "on";
-                        Cont = 0;
+                        mess = "@het=On";
+                        if (waitReceiver(mess, "bot") == "bok")
+                        {
+                            Heat = "on";
+                            //HeatSec = "off";
+                            Cont = 0;
+
+                            Warning.Visible = false;
+                            labelInfo.Visible = false;
+                        }
+                        else
+                        {
+                            Cont++;
+                            if (bluetoothIsOn() && Cont < 100)
+                            {
+                                buttonHeat_Click(sender, e);
+                            }
+                            else
+                            {
+                                Warning.Visible = true;
+                                labelInfo.Text = lang[50];
+                                labelInfo.Visible = true;
+                            }
+                        }
                     }
                     else
                     {
                         if (Heat == "on")
                         {
-                            mess = "@" + settings[1] + " T06 Dv09 St01 #";
+                            mess = "@het=Off";
                             if (waitReceiver(mess, "bot") == "bok")
                             {
-                                //Heat = "off";
+                                Heat = "off";
                                 //HeatSec = "off";
                                 Cont = 0;
 
@@ -1600,7 +1621,7 @@ namespace Prometeus_3._0
                     {
                         if (CO2 == "on")//desliga
                         {
-                            mess = "@co2=On";
+                            mess = "@co2=Off";
                             if (waitReceiver(mess, "bot") == "bok")
                             {
                                 buttonCo2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2g10.dat");
@@ -3111,6 +3132,7 @@ namespace Prometeus_3._0
                             labelLight.ForeColor = System.Drawing.Color.Red;
                             labelLight.Focus();
                             UVLight = "on";
+                            UVWarn.Visible = true;
                             CfgWrite(15, UVLight);
                             Cont = 0;
                             Warning.Visible = false;
@@ -3144,6 +3166,7 @@ namespace Prometeus_3._0
                                 labelLight.ForeColor = System.Drawing.Color.Lime;
                                 labelLight.Focus();
                                 UVLight = "off";
+                                UVWarn.Visible = false;
                                 CfgWrite(15, UVLight);
                                 Cont = 0;
                                 Warning.Visible = false;
@@ -3197,6 +3220,7 @@ namespace Prometeus_3._0
                                     labelLight.ForeColor = System.Drawing.Color.Lime;
                                     labelLight.Focus();
                                     UVLight = "off";
+                                    UVWarn.Visible = false;
                                     CfgWrite(15, UVLight);
                                     Cont = 0;
                                     Warning.Visible = false;
@@ -3249,6 +3273,7 @@ namespace Prometeus_3._0
                                     labelLight.ForeColor = System.Drawing.Color.Lime;
                                     labelLight.Focus();
                                     UVLight = "off";
+                                    UVWarn.Visible = false;
                                     CfgWrite(15, UVLight);
                                     Cont = 0;
                                     Warning.Visible = false;
@@ -3293,6 +3318,7 @@ namespace Prometeus_3._0
                 if (waitReceiver(mess, "bot") == "bok")
                 {
                     pCont = 0;
+                    UVWarn.Visible = false;
                     break;
                 }
                 else
@@ -3324,6 +3350,7 @@ namespace Prometeus_3._0
                         if (waitReceiver(mess, "bot") == "bok")
                         {
                             pCont = 0;
+                            UVWarn.Visible = true;
                             break;
                         }
                         else
@@ -3354,6 +3381,7 @@ namespace Prometeus_3._0
                                 if (waitReceiver(mess, "bot") == "bok")
                                 {
                                     UVLight = "off";
+                                    UVWarn.Visible = false;
                                     CfgWrite(15, UVLight);
                                     Verify();
                                     pCont = 0;
@@ -3393,6 +3421,7 @@ namespace Prometeus_3._0
                     if (waitReceiver(mess, "bot") == "bok")
                     {
                         nCont = 0;
+                        UVWarn.Visible = false;
                         break;
                     }
                     else
@@ -3424,6 +3453,7 @@ namespace Prometeus_3._0
                             if (waitReceiver(mess, "bot") == "bok")
                             {
                                 nCont = 0;
+                                UVWarn.Visible = true;
                                 break;
                             }
                             else
@@ -3454,6 +3484,7 @@ namespace Prometeus_3._0
                                     if (waitReceiver(mess, "bot") == "bok")
                                     {
                                         nCont = 0;
+                                        UVWarn.Visible = false;
                                         break;
                                     }
                                     else
@@ -3492,16 +3523,12 @@ namespace Prometeus_3._0
                         mess = "@dv1=On";
                         if (waitReceiver(mess, "bot") == "bok")
                         {
-                            buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
-                            labelDev1.Text = "ON";
-                            labelDev1.ForeColor = System.Drawing.Color.Red;
-                            labelDev1.Focus();
                             Dev1 = "on";
                             CfgWrite(8, Dev1);
                             Cont = 0;
                             Warning.Visible = false;
                             labelInfo.Visible = false;
-
+                            Verify();
                         }
                         else
                         {
@@ -3526,16 +3553,12 @@ namespace Prometeus_3._0
                             mess = "@dv1=Off";
                             if (waitReceiver(mess, "bot") == "bok")
                             {
-                                buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
-                                labelDev1.Text = "OFF";
-                                labelDev1.ForeColor = System.Drawing.Color.Lime;
-                                labelDev1.Focus();
                                 Dev1 = "off";
                                 CfgWrite(8, Dev1);
                                 Cont = 0;
                                 Warning.Visible = false;
                                 labelInfo.Visible = false;
-
+                                Verify();
                             }
                             else
                             {
@@ -3559,35 +3582,28 @@ namespace Prometeus_3._0
                 {
                     if (Dev1 == "off")
                     {
-                        buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
                         ADev1[3] = "1";
                         pDev1();
                         Dev1 = "aon";
                         CfgWrite(8, Dev1);
-                        labelDev1.Text = "AON";//indicador do automatico on
-                        labelDev1.ForeColor = System.Drawing.Color.Red;
-                        labelDev1.Focus();
+                        Verify();
                     }
                     else
                     {
                         if (Dev1.IndexOf("on")>-1)
                         {
-                            buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                             ADev1[3] = "0";//para a tarefa asyncrona
                             while (true)
                             {
                                 mess = "@dv1=Off";
                                 if (waitReceiver(mess, "bot") == "bok")
                                 {
-                                    buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
-                                    labelDev1.Text = "OFF";
-                                    labelDev1.ForeColor = System.Drawing.Color.Lime;
-                                    labelDev1.Focus();
                                     Dev1 = "off";
                                     CfgWrite(8, Dev1);
                                     Cont = 0;
                                     Warning.Visible = false;
                                     labelInfo.Visible = false;
+                                    Verify();
                                     break;
                                 }
                                 else
@@ -3611,35 +3627,28 @@ namespace Prometeus_3._0
                 {
                     if (Dev1 == "off")
                     {
-                        buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
                         ADev1[3] = "1";
                         wDev1();
                         Dev1 = "aon";
                         CfgWrite(8, Dev1);
-                        labelDev1.Text = "AON";//indicador do automatico on
-                        labelDev1.ForeColor = System.Drawing.Color.Red;
-                        labelDev1.Focus();
+                        Verify();
                     }
                     else
                     {
                         if (Dev1.IndexOf("on")>-1)
                         {
-                            buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                             ADev1[3] = "0";//para a tarefa asyncrona
                             while (true)
                             {
                                 mess = "@dv1=Off";
                                 if (waitReceiver(mess, "bot") == "bok")
                                 {
-                                    buttonDev1Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
-                                    labelDev1.Text = "OFF";
-                                    labelDev1.ForeColor = System.Drawing.Color.Lime;
-                                    labelDev1.Focus();
                                     Dev1 = "off";
                                     CfgWrite(8, Dev1);
                                     Cont = 0;
                                     Warning.Visible = false;
                                     labelInfo.Visible = false;
+                                    Verify();
                                     break;
                                 }
                                 else
@@ -3879,15 +3888,12 @@ namespace Prometeus_3._0
                         mess = "@dv2=On";
                         if (waitReceiver(mess, "bot") == "bok")
                         {
-                            buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d21.dat");
-                            labelDev2.Text = "ON";
-                            labelDev2.ForeColor = System.Drawing.Color.Red;
-                            labelDev2.Focus();
                             Dev2 = "on";
+                            CfgWrite(9, Dev2);
                             Cont = 0;
                             Warning.Visible = false;
                             labelInfo.Visible = false;
-
+                            Verify();
                         }
                         else
                         {
@@ -3911,16 +3917,12 @@ namespace Prometeus_3._0
                             mess = "@dv2=Off";
                             if (waitReceiver(mess, "bot") == "bok")
                             {
-                                buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d20.dat");
-                                labelDev2.Text = "OFF";
-                                labelDev2.ForeColor = System.Drawing.Color.Lime;
-                                labelDev2.Focus();
                                 Dev2 = "off";
                                 CfgWrite(9, Dev2);
                                 Cont = 0;
                                 Warning.Visible = false;
                                 labelInfo.Visible = false;
-
+                                Verify();
                             }
                             else
                             {
@@ -3943,35 +3945,28 @@ namespace Prometeus_3._0
                 {
                     if (Dev2 == "off")
                     {
-                        buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
                         ADev2[3] = "1";
                         pDev2();
                         Dev2 = "aon";
                         CfgWrite(9, Dev2);
-                        labelDev2.Text = "AON";//indicador do automatico on
-                        labelDev2.ForeColor = System.Drawing.Color.Red;
-                        labelDev2.Focus();
+                        Verify();
                     }
                     else
                     {
                         if (Dev2.IndexOf("on")>-1)
                         {
-                            buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                             ADev2[3] = "0";//para a tarefa asyncrona
                             while (true)
                             {
                                 mess = "@dv2=Off";
                                 if (waitReceiver(mess, "bot") == "bok")
                                 {
-                                    buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
-                                    labelDev2.Text = "OFF";
-                                    labelDev2.ForeColor = System.Drawing.Color.Lime;
-                                    labelDev2.Focus();
                                     Dev2 = "off";
                                     CfgWrite(9, Dev2);
                                     Cont = 0;
                                     Warning.Visible = false;
                                     labelInfo.Visible = false;
+                                    Verify();
                                     break;
                                 }
                                 else
@@ -3995,35 +3990,28 @@ namespace Prometeus_3._0
                 {
                     if (Dev2 == "off")
                     {
-                        buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
                         ADev2[3] = "1";
                         wDev2();
                         Dev2 = "aon";
                         CfgWrite(9, Dev2);
-                        labelDev2.Text = "AON";//indicador do automatico on
-                        labelDev2.ForeColor = System.Drawing.Color.Red;
-                        labelDev2.Focus();
+                        Verify();
                     }
                     else
                     {
                         if (Dev2.IndexOf("on")>-1)
                         {
-                            buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                             ADev2[3] = "0";//para a tarefa asyncrona
                             while (true)
                             {
                                 mess = "@dv2=Off";
                                 if (waitReceiver(mess, "bot") == "bok")
                                 {
-                                    buttonDev2Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
-                                    labelDev2.Text = "OFF";
-                                    labelDev2.ForeColor = System.Drawing.Color.Lime;
-                                    labelDev2.Focus();
                                     Dev2 = "off";
                                     CfgWrite(9, Dev2);
                                     Cont = 0;
                                     Warning.Visible = false;
                                     labelInfo.Visible = false;
+                                    Verify();
                                     break;
                                 }
                                 else
@@ -4263,15 +4251,18 @@ namespace Prometeus_3._0
                         mess = "@dv3=On";
                         if (waitReceiver(mess, "bot") == "bok")
                         {
+                            /*
                             buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d31.dat");
                             labelDev3.Text = "ON";
                             labelDev3.ForeColor = System.Drawing.Color.Red;
                             labelDev3.Focus();
+                            */
                             Dev3 = "on";
                             Cont = 0;
                             Warning.Visible = false;
                             labelInfo.Visible = false;
-
+                            CfgWrite(10, Dev3);
+                            Verify();
                         }
                         else
                         {
@@ -4295,16 +4286,18 @@ namespace Prometeus_3._0
                             mess = "@dv3=Off";
                             if (waitReceiver(mess, "bot") == "bok")
                             {
+                                /*
                                 buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d30.dat");
                                 labelDev3.Text = "OFF";
                                 labelDev3.ForeColor = System.Drawing.Color.Lime;
                                 labelDev3.Focus();
+                                */
                                 Dev3 = "off";
                                 CfgWrite(10, Dev3);
                                 Cont = 0;
                                 Warning.Visible = false;
                                 labelInfo.Visible = false;
-
+                                Verify();
                             }
                             else
                             {
@@ -4327,35 +4320,41 @@ namespace Prometeus_3._0
                 {
                     if (Dev3 == "off")
                     {
+                        /*
                         buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
+                        labelDev3.Text = "AON";//indicador do automatico on
+                        labelDev3.ForeColor = System.Drawing.Color.Red;
+                        labelDev3.Focus();
+                        */
                         ADev3[3] = "1";
                         pDev3();
                         Dev3 = "aon";
                         CfgWrite(10, Dev3);
-                        labelDev3.Text = "AON";//indicador do automatico on
-                        labelDev3.ForeColor = System.Drawing.Color.Red;
-                        labelDev3.Focus();
+                        Verify();
                     }
                     else
                     {
                         if (Dev3.IndexOf("on")>-1)
                         {
-                            buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
+                            //buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                             ADev3[3] = "0";//para a tarefa asyncrona
                             while (true)
                             {
                                 mess = "@dv3=Off";
                                 if (waitReceiver(mess, "bot") == "bok")
                                 {
+                                    /*
                                     buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                                     labelDev3.Text = "OFF";
                                     labelDev3.ForeColor = System.Drawing.Color.Lime;
                                     labelDev3.Focus();
+                                    */
                                     Dev3 = "off";
                                     CfgWrite(10, Dev3);
                                     Cont = 0;
                                     Warning.Visible = false;
                                     labelInfo.Visible = false;
+                                    Verify();
                                     break;
                                 }
                                 else
@@ -4379,35 +4378,41 @@ namespace Prometeus_3._0
                 {
                     if (Dev3 == "off")
                     {
+                        /*
                         buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d11.dat");
+                        labelDev3.Text = "AON";//indicador do automatico on
+                        labelDev3.ForeColor = System.Drawing.Color.Red;
+                        labelDev3.Focus();
+                        */
                         ADev3[3] = "1";
                         wDev3();
                         Dev3 = "aon";
                         CfgWrite(10, Dev3);
-                        labelDev3.Text = "AON";//indicador do automatico on
-                        labelDev3.ForeColor = System.Drawing.Color.Red;
-                        labelDev3.Focus();
+                        Verify();
                     }
                     else
                     {
                         if (Dev3.IndexOf("on")>-1)
                         {
-                            buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
+                            //buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                             ADev3[3] = "0";//para a tarefa asyncrona
                             while (true)
                             {
                                 mess = "@dv3=Off";
                                 if (waitReceiver(mess, "bot") == "bok")
                                 {
+                                    /*
                                     buttonDev3Vd.BackgroundImage = new Bitmap(CurrentPath + "/bin/res/bfp2d10.dat");
                                     labelDev3.Text = "OFF";
                                     labelDev3.ForeColor = System.Drawing.Color.Lime;
                                     labelDev3.Focus();
+                                    */
                                     Dev3 = "off";
                                     CfgWrite(10, Dev3);
                                     Cont = 0;
                                     Warning.Visible = false;
                                     labelInfo.Visible = false;
+                                    Verify();
                                     break;
                                 }
                                 else
@@ -4701,68 +4706,16 @@ namespace Prometeus_3._0
             if (HeatSec == "on") { ret += 1; } else { ret += 0; }
             if (Pump == "on") { ret += 1; } else { ret += 0; }
             if (Fan == "on") { ret += 1; } else { ret += 0; }
-            if (Level == "1") { ret += 1; } else { ret += 0; }
 
             return ret;
         }
 
         //********* timer de 1 em 1 seg para leitura de temperatura e acionamento do alarme ***********************
-        private void serialPort1_DataReceived(object sender, System.IO.Ports.SerialDataReceivedEventArgs e)
-        {
-            verifyCom = 0;
-            //timer15sec();
-            Thread.Sleep(1);
-            try {
-                send = serialPort1.ReadExisting();
-            }
-            catch { }
-            try
-            {
-                if (send.IndexOf('p') > -1)
-                {
-                    recebe = true;
-                }
-            }
-            catch (Exception ei) { }
-            try
-            {
-                string veri = send.Substring(send.IndexOf('@') + 2, 1);
-                if (veri == "0")
-                {
-                    send = send.Substring(send.IndexOf('@') + 3);
-                    tAir = send.Substring(0, send.IndexOf('#'));
-                    recebe1 = true;
-                }/*
-                if (veri == "1")
-                {
-                    send = send.Substring(send.IndexOf('@') + 3);
-                    tLiq = send.Substring(0, send.IndexOf('#'));
-                    recebe1 = true;
-                }*/
-                if (veri == "2")
-                {
-                    Up = send.Substring(send.IndexOf('@') + 3, 1);
-                    recebe1 = true;
-                }
-                if (veri == "3")
-                {
-                    Down = send.Substring(send.IndexOf('@') + 3, 1);
-                    recebe1 = true;
-                }
-                if (veri == "4")
-                {
-                    Level = send.Substring(send.IndexOf('@') + 3, 1);
-                    recebe1 = true;
-                }
-                //timer1_Tick();
-            }
-            catch(Exception ei) { }
-        }
-
+        
         private async void timer1_Tick(object sender, EventArgs e)
         {
             //recebe = false;
-            await Task.Delay(1);
+            await Task.Delay(500);
             if (bluetoothIsOn())
             {
                 int tCont = 0;
@@ -4832,90 +4785,30 @@ namespace Prometeus_3._0
                         doorDown = "close";
                     }
                 }
-                /*
-                if (Level == "1")//aberta
-                {
-                    buttonLevVd.Visible = true;
-                    buttonLevVm.Visible = false;
-                    labelLev.Text = lang[18];
-                    labelLev.ForeColor = Color.Lime;
-                    if (labelInfo.Text == lang[53])
-                    {
-                        Warning.Visible = false;
-                        labelInfo.Visible = false;
-                    }
-                }
-                else
-                {
-                    if (Level == "0")
-                    {
-                        buttonLevVd.Visible = false;
-                        buttonLevVm.Visible = true;
-                        labelLev.Text = lang[19];
-                        labelLev.ForeColor = Color.Red;
-
-                        Warning.Visible = true;
-                        labelInfo.Visible = true;
-                        labelInfo.Text = lang[53];
-                    }
-                }
-                //*/
-                // }
-                //var F2= Application.OpenForms.OfType<FormMaintenance>().Single();//acesso as funções da manutenção
-
                 if (true)//TempMed == 0 || (TempGet.Sum() ==0 )) //TempGet[vectorpos] != TempAir ||  && (((TempMed - (TempMed*0.05)) < TempAir && (TempMed + (TempMed * 0.05)) > TempAir)
                 {
-                    TminCont = 0;
-                    TmaxCont = 0;
-                    vectorpos++;
-                    TempGet[vectorpos] = TempAir;
-                    //Console.WriteLine("Temperatura: " + TempAir);
-                    //TempGet.ToList().ForEach(Console.WriteLine);
-                    //Console.ReadLine();
-                    bool tempver = true;
-                    for(int i = 0; i < 10; i++) { if (TempGet[i] == 0) { tempver = false; } }
-                    if (tempver)
+                    TempMed = TempAir;
+                    if (TempMed > 10)
                     {
-                        //LPID++;
-                        TempMed = (TempGet.Sum() / 10) + corrTemp;
-                        if (TempMed < TempAirStable)
+                        if (tempUnit == "c")
                         {
-                            //TrnOnHeat();
+                            labelTempAr.Text = TempMed.ToString("00.0");
+                            labelTempUnit.Text = "C°";
+                            labelTempUnit.Focus();
+                            labelTempAr.Focus();
                         }
-                        if (TempMed > TempAirStable)
+                        else
                         {
-                            //TrnOffHeat();
-                        }
-                        
-                        for(int i = 0; i < 1200-1; i++)
-                        {
-                            PID[i] = PID[i + 1];
-                        }
-                        
-                        PID[1199] = TempMed;
-                        //VerifyPID();************************************************************************************************************************
-                        if (TempMed >10)
-                        {
-                            if (tempUnit == "c")
+                            if (tempUnit == "f")
                             {
-                                labelTempAr.Text = TempMed.ToString("00.0");
-                                labelTempUnit.Text = "C°";
+                                labelTempAr.Text = (((TempMed / 5) * 9) + 32).ToString("00.0");
+                                labelTempUnit.Text = "F°";
                                 labelTempUnit.Focus();
                                 labelTempAr.Focus();
                             }
-                            else
-                            {
-                                if (tempUnit == "f")
-                                {
-                                    labelTempAr.Text = (((TempMed / 5) * 9) + 32).ToString("00.0");
-                                    labelTempUnit.Text = "F°";
-                                    labelTempUnit.Focus();
-                                    labelTempAr.Focus();
-                                }
-                            }
                         }
                     }
-                    if (vectorpos == 9) { vectorpos = -1; }
+                   
                 }
             
                 string day = DateTime.Now.Day.ToString();
@@ -4955,54 +4848,6 @@ namespace Prometeus_3._0
                 {
                     Console.Beep();
                     //aciona o alarme
-                }
-                if(FanSec=="on" && (doorDown=="open" || doorUp == "open"))
-                {
-                    while (true)
-                    {
-                        mess = "@dv3=Off";
-                        if (waitReceiver(mess, "bot") == "bok")
-                        {
-                            FanSec = "off";
-                            Cont = 0;
-                            break;
-                        }
-                        else
-                        {
-                            Cont++;
-                            if (bluetoothIsOn() && Cont < 100)
-                            {
-                            }
-                            else
-                            {
-                                break;
-                            }
-                        }
-                    }
-                }
-                if (FanSec == "off" && Fan == "on" && !(doorDown == "open" || doorUp == "open"))
-                {
-                    while (true)
-                    {
-                        mess = "@dv3=On";
-                        if (waitReceiver(mess, "bot") == "bok")
-                        {
-                            FanSec = "on";
-                            Cont = 0;
-                            break;
-                        }
-                        else
-                        {
-                            Cont++;
-                            if (bluetoothIsOn() && Cont < 100)
-                            {
-                            }
-                            else
-                            {
-                                break;
-                            }
-                        }
-                    }
                 }
             }
             //recebe = true;
@@ -5090,7 +4935,7 @@ namespace Prometeus_3._0
             int tcont1 = 0;
             readSettings();
             Verify();
-            while (bluetoothIsOn())
+            while (Blue=="on")
             {
                 await Task.Delay(10);
                 tcont1++;
@@ -5111,17 +4956,9 @@ namespace Prometeus_3._0
         private async void timer15sec()//timer de 15000 a 16500 ms
         {
             //int tcont2 = 0;
-            while (bluetoothIsOn())
+            while (!bluetoothIsOn())
             {
-                await Task.Delay(10);
-                verifyCom++;
-                //if (breakCom == 1) { breakCom = 0; break; }
-                if (verifyCom >= 1500)
-                {
-                   
-                    bluetoothState(false);
-                    break;
-                }
+                await Task.Delay(10000);
             }
             Verify();
         }
@@ -5139,6 +4976,7 @@ namespace Prometeus_3._0
             }
         }
         
+
     }
 }
 /*

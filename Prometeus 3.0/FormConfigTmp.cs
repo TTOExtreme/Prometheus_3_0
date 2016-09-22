@@ -22,7 +22,7 @@ namespace Prometeus_3._0
             txtLow.Text = F1.lang[19];
             txtSet.Text = F1.lang[37];
             txtUnit.Text = F1.lang[20];
-            txtConfigTemp.Text = F1.lang[25];
+            txtConfigTemp.Text = F1.lang[24];
             if (F1.tempUnit == "c")
             {
                 buttonTmpCelcheck.Visible = true;

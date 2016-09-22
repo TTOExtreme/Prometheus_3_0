@@ -101,7 +101,7 @@
             this.labelBlue.AutoSize = true;
             this.labelBlue.BackColor = System.Drawing.Color.Transparent;
             this.labelBlue.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelBlue.ForeColor = System.Drawing.Color.Red;
+            this.labelBlue.ForeColor = System.Drawing.Color.Lime;
             this.labelBlue.Location = new System.Drawing.Point(1145, 303);
             this.labelBlue.Name = "labelBlue";
             this.labelBlue.Size = new System.Drawing.Size(62, 29);
@@ -182,6 +182,7 @@
             this.button1.TabIndex = 361;
             this.button1.TabStop = false;
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Visible = false;
             // 
             // label1
             // 
@@ -194,6 +195,7 @@
             this.label1.Size = new System.Drawing.Size(107, 33);
             this.label1.TabIndex = 362;
             this.label1.Text = "COMM";
+            this.label1.Visible = false;
             // 
             // comboBox1
             // 
@@ -202,6 +204,7 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(145, 21);
             this.comboBox1.TabIndex = 363;
+            this.comboBox1.Visible = false;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // DebugText

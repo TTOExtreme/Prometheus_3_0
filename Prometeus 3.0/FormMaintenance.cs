@@ -68,7 +68,7 @@ namespace Prometeus_3._0
             }
             else
             {
-                if (!F1.bluetoothIsOn())
+                //if (!F1.bluetoothIsOn())
                 {
                     buttonBlueOn.BackgroundImage = new Bitmap(pathImg + "bfp2bt0.dat");
                     labelBlue.Text = "OFF";
@@ -292,23 +292,7 @@ namespace Prometeus_3._0
                     labelDoorDown.ForeColor = Color.Lime;
                 }
             }
-            if (F1.Level == "1")//aberta
-            {
-                buttonLevVm.Visible = false;
-                buttonLevVd.Visible = true;
-                labelLev.Text = "HI";
-                labelLev.ForeColor = Color.Lime;
-            }
-            else
-            {
-                if (F1.Level == "0")
-                {
-                    buttonLevVm.Visible = true;
-                    buttonLevVd.Visible = false;
-                    labelLev.Text = "Low";
-                    labelLev.ForeColor = Color.Red;
-                }
-            }
+            
             if (TempGet != F1.TempMed && F1.TempMed != 0)
             {
                 TempGet = F1.TempAir;
@@ -363,13 +347,6 @@ namespace Prometeus_3._0
         {
             var F1 = Application.OpenForms.OfType<Form1>().Single();//acesso as funções da Form1
             F1.buttonHeat_Click(sender, e);
-            Verify();
-        }
-        //****************************************** Pump **************************************************
-        private void buttonPumpVd_Click(object sender, EventArgs e)
-        {
-            var F1 = Application.OpenForms.OfType<Form1>().Single();//acesso as funções da Form1
-            F1.buttonPump_Click(sender, e);
             Verify();
         }
         //******************************************* Fan ************************************************* 

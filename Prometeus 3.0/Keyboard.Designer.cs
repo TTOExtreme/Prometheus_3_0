@@ -300,11 +300,13 @@ namespace Prometeus_3._0
             // 
             // textBox
             // 
-            this.textBox.Location = new System.Drawing.Point(25, 16);
+            this.textBox.Enabled = false;
+            this.textBox.Font = new System.Drawing.Font("Arial Narrow", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox.Location = new System.Drawing.Point(12, 16);
             this.textBox.Name = "textBox";
-            this.textBox.Size = new System.Drawing.Size(100, 20);
+            this.textBox.Size = new System.Drawing.Size(113, 35);
             this.textBox.TabIndex = 62;
-            this.textBox.Visible = false;
+            this.textBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // Keyboard
             // 

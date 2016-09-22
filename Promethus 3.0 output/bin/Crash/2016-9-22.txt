@@ -1,0 +1,2598 @@
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@het=On}
+[Error] Falha ao enviar comando {@fan=On}
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00
+air temp: 375 : 375.00

@@ -49,3 +49,4 @@ D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prome
 D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.application
 D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.exe
 D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus 3.0.pdb
+D:\_Arquivos\BIOFABRIS\Prometeus 2.0\prometeus 3.0\Prometeus 3.0\obj\Debug\Prometeus_3._0.Connecting_screen.resources
